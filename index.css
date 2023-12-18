@@ -1,0 +1,40 @@
+*{
+    padding:2px;
+    margin:2px;
+}
+body{
+    background-image:url(https://t4.ftcdn.net/jpg/04/20/09/31/360_F_420093156_dEpP6CgbzpAsZZNdpFigl7szRqMY861b.jpg);
+    text-align: center;
+}
+h1{
+    text-decoration: underline;
+    font-weight:bold;
+}
+.a{
+    background-image:url(https://static3.depositphotos.com/1000641/112/i/950/depositphotos_1121061-stock-photo-gray-grunge-background.jpg);
+    border: 2px solid black;
+    border-width:20px;
+    display: flex;
+    width:600px;
+    height:530px;
+    justify-content: center;
+    margin:auto
+}
+
+.c{
+    width:50%;
+}
+.z{
+   font-size: 40px;
+
+}
+.i{
+    display: inline-block;
+    background-color: blue;
+}
+.j{
+    color:red;
+}
+.d,.e,.f,.g,.h{
+    color: blue;
+}
